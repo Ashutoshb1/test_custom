@@ -1,41 +1,22 @@
-svg{
+#host123,#svg13653{
     height: 100px;
     width: 100px;
      
 }
 
-
-
-img {
-    height: 100px;
-    width: 100px;
-
-}
 ul{
     list-style: none;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(71, 71, 71);  
     
-    
 }
- 
-.panel{
-    width: 100px;
-    background-color:grey;
-    margin-left:20px;
-}
-.drawArea{
-    border: 1px black solid;
-    background-color:palegreen;
-    width: 80% ;
-}
-.draw{
-    display: block;
-}
-
+ #draw{
+     height:100%;
+     width: 500px;
+ }
 
 
 .container{
     border: 1px black solid;
-    margin: 100px auto;
+    margin: 10px auto;
     
 }
